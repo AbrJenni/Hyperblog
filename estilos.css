@@ -11,11 +11,7 @@ body
 
 #hello
 {
-<<<<<<< HEAD
-    background: #37488b;
-=======
     background: #37488b ;
->>>>>>> footer
     box-shadow:0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -24,15 +20,6 @@ body
 }
 
 #hello #logo
-<<<<<<< HEAD
-{
-    width: 20px;
-    vertical-align: middle;
-}
-
-#hello #tagl
-=======
->>>>>>> footer
 {
     width: 20px;
     vertical-align: middle;
