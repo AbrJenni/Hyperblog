@@ -7,11 +7,7 @@ now i start a new proyect that why im happy!
 tomorrow we start to talk about his working life :) 
 
 Master 1
-<<<<<<< HEAD
-master 2
-=======
 
 Experimento 1 
 
 experimento 2
->>>>>>> 85a1860... experimento 2
